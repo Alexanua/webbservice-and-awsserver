@@ -1,4 +1,4 @@
-package com.roriga.webbserviceandawsserver.dto;
+package com.roriga.webbserviceandawsserver.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
